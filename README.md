@@ -21,13 +21,12 @@ There are two ways to get this application running.
 
 If you just want to use the application, you can download the latest pre-compiled version.
 
-1.  Go to the **[Releases page](https://github.com/your-username/Folder-To-Text/releases)**.
-2.  Download the latest `FolderToText.jar` file from the assets.
-3.  Make sure you have at least Java Runtime Environment (JRE) installed on your system.
-4.  Open your terminal, navigate to the download directory, and run the application with the following command:
-    ```bash
-    java -jar FolderToText.jar
-    ```
+1.  Go to the **[Releases page (v1.0)](https://github.com/SametCirik/FolderToText/releases/tag/v1.0)**.
+2.  Download the latest `FolderToText.rar` (or `.zip`) file from the assets.
+3.  Extract the archive to a folder on your computer using a tool like WinRAR or 7-Zip.
+4.  Open the extracted folder and double-click on **`FolderToText.exe`** to start the application.
+
+**Note:** The application requires *the Java Runtime Environment (JRE)* to be installed on your system. If the `.exe` file doesn't open, please make sure you have Java installed.
 
 ### Option 2: Build from Source (For Developers) 💻
 
