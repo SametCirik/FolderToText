@@ -66,3 +66,17 @@ You can contribute by:
 
 I look forward to collaborating with you!
 
+---
+
+<p align="center">
+   <img width="256" height="256" alt="AppLogoImage" src="https://github.com/user-attachments/assets/4409279f-c7e3-432c-9533-60b492c63206" />
+</p>
+
+<p align="center">
+   <i>
+      Application Icon
+   </i>
+</p>
+
+---
+
