@@ -15,7 +15,23 @@ This tool is designed to help developers quickly understand the structure and co
 
 ## How to Get Started
 
-You can run this project directly from the source code.
+There are two ways to get this application running.
+
+### Option 1: Download the Release (Easiest Way) 🚀
+
+If you just want to use the application, you can download the latest pre-compiled version.
+
+1.  Go to the **[Releases page](https://github.com/your-username/Folder-To-Text/releases)**.
+2.  Download the latest `FolderToText.jar` file from the assets.
+3.  Make sure you have at least Java Runtime Environment (JRE) installed on your system.
+4.  Open your terminal, navigate to the download directory, and run the application with the following command:
+    ```bash
+    java -jar FolderToText.jar
+    ```
+
+### Option 2: Build from Source (For Developers) 💻
+
+If you want to modify the code or build it yourself, follow these steps:
 
 1.  **Prerequisites:** Make sure you have the Java Development Kit (JDK) installed on your system.
 2.  **Clone the repository:**
@@ -31,7 +47,8 @@ You can run this project directly from the source code.
     ```bash
     java FolderToText
     ```
-5.  A file chooser dialog will appear. Select the project folder you want to analyze, and the report will be displayed in a new window.
+
+After running the application using either method, a file chooser dialog will appear. Select the project folder you want to analyze, and the report will be displayed in a new window.
 
 ## Project Status and Future Roadmap
 
