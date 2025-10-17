@@ -37,6 +37,8 @@ You can run this project directly from the source code.
 
 **Current Status:** The project is fully functional and stable in its `v1.0` release. All the core features listed above are implemented and working.
 
+- [Download v1.0 Pre-Alpha](https://github.com/SametCirik/FolderToText/releases/tag/v1.0)
+
 **Future Plans (Roadmap):**
 
 - **Command-Line Interface (CLI):** Add support for running the analyzer from the terminal without a GUI, allowing for automation and scripting.
