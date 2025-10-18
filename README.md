@@ -21,7 +21,7 @@ There are two ways to get this application running.
 
 If you just want to use the application, you can download the latest pre-compiled version.
 
-1.  Go to the **[Releases page (v1.0)](https://github.com/SametCirik/FolderToText/releases/tag/v1.0)**.
+1.  Go to the **[Releases page (v2.1)](https://github.com/SametCirik/FolderToText/releases/tag/v2.1)**.
 2.  Download the latest `FolderToText.rar` (or `.zip`) file from the assets.
 3.  Extract the archive to a folder on your computer using a tool like WinRAR or 7-Zip.
 4.  Open the extracted folder and double-click on **`FolderToText.exe`** to start the application.
