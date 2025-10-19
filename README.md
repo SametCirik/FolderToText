@@ -91,9 +91,9 @@ I look forward to collaborating with you!
 </p>
 
 <p align="center">
-   <i>
-      Application Icon
-   </i>
+    <i>
+        Application Icon
+    </i>
 </p>
 
 ---
@@ -104,3 +104,8 @@ I look forward to collaborating with you!
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aafdbb6c-b244-4ee7-8304-24f3db1bb575" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62adfe8d-f16c-47bb-90b8-9e5280df078e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b32ad6a-d1b6-4814-b0c9-941c0cdf2e55" />
+
+---
+
+![GitHub all releases](https://img.shields.io/github/downloads/SametCirik/FolderToText/total)
+
